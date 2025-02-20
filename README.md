@@ -1,7 +1,7 @@
 # CKAD-Training
 CKAD-Training
 
-# Requierments:
+# Requirements:
 - docker/podman
 - kind (https://kind.sigs.k8s.io/)
 - kubectl (https://kubernetes.io/docs/tasks/tools/)
