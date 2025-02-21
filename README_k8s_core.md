@@ -53,7 +53,7 @@ kind delete cluster
 az login
 az account set --subscription "CINQ ICT"
 
-RESOURCE_GROUP=rg-ericcornet-devops
+RESOURCE_GROUP=<your resource group>
 
 # Takes up to 5 minutes...
 az aks create \
