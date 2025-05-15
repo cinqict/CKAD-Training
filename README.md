@@ -11,6 +11,10 @@ CKAD-Training
 Git clone this repo:
 - git clone https://github.com/cinqict/CKAD-Training.git
 
+# Planning and Links
+
+[Planning and links to exercises](planning-and-links.md)
+
 # Setup Kind Cluster
 - kind create cluster --config=config.yaml
   * Setups a kind k8s cluster with 1 system node and 2 worker nodes
